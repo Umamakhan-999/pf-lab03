@@ -1,0 +1,4 @@
+Ask the user to input 'n1'
+IF 'n1' is completely divisible by 2 with remainder=0
+Display 'EVEN' to the user
+ELSE Display 'ODD' to  the user
